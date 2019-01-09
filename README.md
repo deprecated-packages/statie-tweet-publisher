@@ -1,4 +1,4 @@
-# Statie Tweet Publisher
+# [DEPREATED] Intergated directly in Statie 5.3+
 
 Let Statie & Travis publish Tweets for your new posts fo you.
 
